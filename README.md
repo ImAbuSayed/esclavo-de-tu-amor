@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/esclavo-de-tu-amor/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Esclavo de tu amor](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/esclavo-de-tu-amor/) |
+| **Get License** | [Request Licensing for Esclavo de tu amor](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/esclavo-de-tu-amor/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
