@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Esclavo de tu amor
+
+This log tracks the cryptographic history and versioning for the song **Esclavo de tu amor** (esclavo-de-tu-amor).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-16T22:49:40.940073 | `v1` | `` | `569887dd18280ec4a957d78107c38020eccf879e8ac9222af2983cc027a69b5f` | `2026-06-16_esclavo-de-tu-amor-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
